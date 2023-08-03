@@ -1,2 +1,1 @@
-# git-github
-first
+this is a tutorial purpposse
